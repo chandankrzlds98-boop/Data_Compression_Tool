@@ -1,0 +1,24 @@
+# Python project 
+ 
+.venv/ 
+venv/ 
+env/ 
+.idea/ 
+__pycache__/ 
+*.py[cod] 
+.streamlit/secrets.toml 
+.env 
+*.log 
+Lib/ 
+Scripts/ 
+include/ 
+share/ 
+etc/ 
+pyvenv.cfg 
+Lib/ 
+Lib/ 
+Scripts/ 
+include/ 
+etc/ 
+share/ 
+pyvenv.cfg 
